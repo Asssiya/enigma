@@ -15,10 +15,17 @@ height: 100px;
 padding: 10px;
 border: 1px solid #000;
 margin: 20px;
+
 background-color: #f0f0f0;
 background-image: url('image.jpg');
 background-repeat: repeat-x;
 background-position: center;
 background-size: cover;
+
+font-family: Arial, sans-serif;
+font-size: 16px;
+font-weight: bold;
+font-style: italic;
+color: #333;
 
 
